@@ -1,4 +1,4 @@
-# Tail-Light-Controller---Ford-Thunderbird
+# Ford-Thunderbird-Tail-Light-Controller
 
 This project implements a Moore state machine in SystemVerilog to replicate the behavior of the 1965 Ford Thunderbird sequential tail lights. The design was simulated in ModelSim and deployed to a DigiLab FPGA, with full functionality for turn signals, brake lights, hazard lights, and running lights.
 
